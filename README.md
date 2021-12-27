@@ -8,7 +8,7 @@ Building a classifier to predict the cancellations on 2 Hotels in Portugal. Furt
 
 
 
-# Quick Problem Overview
+# Quick Problem Overview:
 
 1. **Who is our stakeholder?** - Booking Manager
 
